@@ -63,7 +63,10 @@ git push
   ![image](https://github.com/user-attachments/assets/de3c8191-6c26-433e-a6e4-8de21660cdf3)
   ![image](https://github.com/user-attachments/assets/89f6475a-f51c-40c3-b1a6-b45383726f4a)
   ![image](https://github.com/user-attachments/assets/4fcc21bd-f6b6-4695-ba71-79727e741e2a)
-
+- now you can see the changes in github also
+  ![image](https://github.com/user-attachments/assets/12e77c64-7fc9-4395-aeee-f7e610b9bfe9)
+- lets push the code from your local pc to build and deploy the application
+- 
 
 
 
