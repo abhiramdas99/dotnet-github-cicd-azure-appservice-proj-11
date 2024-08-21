@@ -20,3 +20,24 @@ A simple hello-word dotnet website, to test the azure cicd and also delete the a
 git clone https://github.com/abhiramdas99/dotnet-github-cicd-azure-appservice-proj-11.git
 cd dotnet-github-cicd-azure-appservice-proj-11
 ```
+## write a simple application and test it locally
+```
+dotnet new webapp --force
+```
+- Open the Pages/Index.cshtml file in your code editor.
+```
+@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h1>Hello World</h1>
+
+```
+- build and  run
+```
+dotnet build
+dotnet run
+```
+![image](https://github.com/user-attachments/assets/e2a4e61e-0bd0-423e-912b-f4d14a91eb63)
