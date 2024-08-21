@@ -53,7 +53,17 @@ git commit -m "1st commit"
 git push 
 ```
 - now create azure app resource in free plan
-  - Basic
-    ![image](https://github.com/user-attachments/assets/c345e41f-feb7-477d-886a-f55049c6b2d3)
+  ### Basic
+  ![image](https://github.com/user-attachments/assets/c345e41f-feb7-477d-886a-f55049c6b2d3)
+  ![image](https://github.com/user-attachments/assets/dbecaf05-14ad-4e59-b7d5-caa55f8883b7)
+  ![image](https://github.com/user-attachments/assets/f755fedf-27cc-455c-8f46-9cbe78a1642e)
+  ![image](https://github.com/user-attachments/assets/53a57425-9a05-480a-9bd8-c4777a5de95c)
+  ![image](https://github.com/user-attachments/assets/145c5e61-3068-4491-8a3a-b4513e9434d9)
+### Deployment
+  ![image](https://github.com/user-attachments/assets/de3c8191-6c26-433e-a6e4-8de21660cdf3)
+  ![image](https://github.com/user-attachments/assets/89f6475a-f51c-40c3-b1a6-b45383726f4a)
+  ![image](https://github.com/user-attachments/assets/4fcc21bd-f6b6-4695-ba71-79727e741e2a)
+
+
 
 
