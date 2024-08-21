@@ -41,3 +41,10 @@ dotnet build
 dotnet run
 ```
 ![image](https://github.com/user-attachments/assets/e2a4e61e-0bd0-423e-912b-f4d14a91eb63)
+
+# Integrate cicd pipline with azure app service
+- push the code to git
+```
+
+```
+
