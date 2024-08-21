@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\dotnet-github-cicd-azure-appservice-proj-11.props" />
+</Project>
