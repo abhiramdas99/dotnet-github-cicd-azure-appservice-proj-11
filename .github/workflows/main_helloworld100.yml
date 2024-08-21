@@ -32,7 +32,8 @@ jobs:
         with:
           name: .net-app
           path: "${{ github.workspace }}/myapp"
-
+          retention-days: 1
+          
   deploy:
     runs-on: windows-latest
     needs: build
@@ -63,8 +64,5 @@ jobs:
           slot-name: 'Production'
           package: .
           
-      - name: Delete artifact after deployment
-        run: |
-          echo "Deleting artifact after deployment..."
-          rm -rf "${{ github.workspace }}/myapp"
+
           
