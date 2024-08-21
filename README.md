@@ -1,9 +1,8 @@
-# dotnet-github-cicd-azure-appservice-proj-11
 
-#objective: 
-A simple hello-word dotnet website, to test the azure cicd and also delete the artifact after deploy to azure app service 
+# objective: 
+Demonstrating how to build and deploy a simple .NET-based application to Azure App Service using GitHub Actions
 
-# steps plan:
+# Agenda:
 -   create a free azure app service
 -   create new repo in git clone to your local pc
 -   write a simple application and test it locally

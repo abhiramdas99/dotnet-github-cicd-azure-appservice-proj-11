@@ -32,7 +32,8 @@ jobs:
         with:
           name: .net-app
           path: "${{ github.workspace }}/myapp"
-
+          retention-days: 1
+          
   deploy:
     runs-on: windows-latest
     needs: build
@@ -62,3 +63,6 @@ jobs:
           app-name: 'HelloWorld100'
           slot-name: 'Production'
           package: .
+          
+
+          
