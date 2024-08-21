@@ -35,6 +35,9 @@ dotnet new webapp --force
 <h1>Hello World</h1>
 
 ```
+- make sure the folder structure should be like this.
+![image](https://github.com/user-attachments/assets/f8601f52-db50-42fd-83b6-0118cebbdc17)
+
 - build and  run
 ```
 dotnet build
@@ -45,6 +48,8 @@ dotnet run
 # Integrate cicd pipline with azure app service
 - push the code to git
 ```
-
+git add .
+git commit -m "1st commit"
+git push 
 ```
 
