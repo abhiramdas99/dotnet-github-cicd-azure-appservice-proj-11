@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dotnet-github-cicd-azure-appservice-proj-11")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38449ecdbad14fca4be8b0926c6fb4941ae2a2f8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ddbe38eba1fd85c986e24a5258cde0cdb15a8d7b")]
 [assembly: System.Reflection.AssemblyProductAttribute("dotnet-github-cicd-azure-appservice-proj-11")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dotnet-github-cicd-azure-appservice-proj-11")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
