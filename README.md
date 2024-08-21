@@ -1,6 +1,5 @@
-# dotnet-github-cicd-azure-appservice-proj-11
 
-#objective: 
+# objective: 
 Demonstrating how to build and deploy a simple .NET-based application to Azure App Service using GitHub Actions
 
 # Agenda:
