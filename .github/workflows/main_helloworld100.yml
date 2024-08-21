@@ -62,3 +62,9 @@ jobs:
           app-name: 'HelloWorld100'
           slot-name: 'Production'
           package: .
+          
+      - name: Delete artifact after deployment
+        run: |
+          echo "Deleting artifact after deployment..."
+          rm -rf "${{ github.workspace }}/myapp"
+          
