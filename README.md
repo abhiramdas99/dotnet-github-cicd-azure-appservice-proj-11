@@ -4,13 +4,15 @@
 A simple hello-word dotnet website, to test the azure cicd and also delete the artifact after deploy to azure app service 
 
 # steps plan:
--   we create a free azure app service
--   create new repo in git
--   write a simple application test it
+-   create a free azure app service
+-   create new repo in git clone to your local pc
+-   write a simple application and test it locally
 -   Integrate cicd pipline with azure app service
 
 # lets start : 
+## I create free azure app service
+1) create new repo in git
+2) create an azure app serivice and follow this url for create resource group & app-service plan -  https://github.com/abhiramdas99/manage-azure-infra
 
-1) I create free azure app service
-2) create new repo in my git
-3) 
+## create new repo in git clone to your local pc
+
